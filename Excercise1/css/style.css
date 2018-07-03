@@ -69,3 +69,8 @@
     display: table;
     clear: both;
 }
+
+.top-container{
+     align-content: center;
+     background-color: #ccc;
+}
